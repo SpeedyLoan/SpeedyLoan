@@ -1,0 +1,820 @@
+@media (max-width: 767px) {	
+.hadder {
+	padding: 8px 0;
+}
+.navbar-light .navbar-toggler {
+	color: #ffff !important;
+	border-color: inherit !important;
+	border: none !important;
+	background-color: #F60;
+	padding: 13px 12px 6px 13px;
+}
+.navbar-nav.mr-auto {
+	position: absolute;
+	left: 0;
+	width: 90%;
+	background-color: #fff;
+	border: 1px solid #dcdcdc;
+	right: 0;
+	margin: 7px auto;
+	border-radius: 3px;
+	text-align: left;
+	z-index: 999;
+}
+.bg-light {
+	background-color: transparent;
+	position: inherit;
+}
+.navbar-nav.mr-auto li {
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+}
+.navbar-nav.mr-auto li a.nav-link {
+	padding: 10px 10px;
+	border-bottom: 1px solid #dcdcdc;
+}
+.login-btn {
+	border-radius: 0;
+	width: 100%;
+	height: 46px;
+	padding: 10px 10px;
+	margin: 0 0 0 0;
+}
+.container.banner-container {
+	max-width: 100%;
+	padding-right: 10px !important;
+	padding-left: 10px !important;
+}
+.hadder .container {
+	padding: 0 10px !important;
+}
+.banner-saction {
+	height: auto;
+	padding: 20px 0;
+}
+.banner-saction-content h2 {
+	font-size: 22px;
+	line-height: 25px;
+}
+.banner-saction-content p {
+	margin: 10px 0 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+.banner-saction-content p br {
+	display: none;
+}
+.apply-btn {
+	margin: 10px 0;
+}
+.apply-btn a {
+	width: auto;
+	color: #fff !important;
+	height: auto;
+	line-height: inherit;
+	font-size: 14px;
+	padding: 7px 20px;
+}
+.speed-money-saction {
+	padding: 1.5rem 0;
+}
+.speed-money-saction h2 {
+	font-size: 22px;
+}
+.speed-money-saction p {
+	font-size: 13px;
+	font-weight: 300;
+	margin: 10px 0 0 0;
+	line-height: 19px;
+}
+.speed-money-saction .row {
+	margin-top: 1.5rem;
+}
+.speed-money-saction-content h4 {
+	font-size: 20px;
+	margin: 10px 0 0;
+}
+.speed-money-saction-content {
+	margin: 0 0 1.5rem 0;
+}
+.about-speed-money-saction {
+	padding: 1.5rem 0;
+	text-align: left;
+}
+.about-speed-money-saction-text h2 {
+	font-size: 22px;
+}
+.about-speed-money-saction-text p {
+	font-size: 14px;
+	line-height: 20px;
+	margin: 10px 0 0 0;
+}
+ul.about-list li {
+	font-size: 13px;
+	margin: 0 0 10px 0;
+}
+ul.about-list {
+	margin: 1.5rem 0 0 0;
+}
+.do-our-lending-Online-saction {
+	padding: 1.5rem 0;
+}
+.do-our-lending-Online-saction-content {
+	border: 3px solid #FFFFFF;
+	padding: 0.5rem;
+}
+.do-our-lending-Online-saction-content h2 {
+	font-size: 22px;
+}
+.do-our-lending-Online-saction-content p {
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 300;
+	width: 100%;
+	margin: 10px auto;
+}
+.blue-btn {
+	margin: .5rem 0;
+}
+.blue-btn a {
+	width: auto;
+	height: auto;
+	line-height: inherit;
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.about-speed-money-saction .col-md-6:nth-child(2) {
+	display: none;
+}
+.easy-loan-process-saction {
+	padding: 1.5rem 0;
+}
+.easy-loan-process-saction h2 {
+	font-size: 22px;
+}
+.easy-loan-process-saction p {
+	font-size: 12px;
+	font-weight: 300;
+	margin: 0px 0 0 0;
+}
+.easy-loan-process-saction .row {
+	margin-top: 1.5rem;
+}
+.easy-loan-process-saction-content {
+	padding: 15px;
+	margin-bottom: 1.5rem;
+}
+.number-box span {
+	width: 60px;
+	height: 60px;
+	font-size: 33px;
+	padding: 5px 0 0 0;
+}
+.number-box {
+	width: 70px;
+	height: 70px;
+	padding: 4px 0 0 0;
+}
+.easy-loan-process-saction-content h4 {
+	font-size: 18px;
+	margin: 20px 0;
+}
+.customer-feedback-saction {
+	padding: 1.5rem 0;
+}
+.customer-feedback-saction h2 {
+	font-size: 22px;
+}
+.customer-feedback-saction p {
+	font-size: 12px;
+	font-weight: 300;
+	margin: 0 0 0 0;
+}
+.customer-feedback-saction-content .items.slick-initialized.slick-slider.slick-dotted {
+	margin: 0 0 0 0;
+}
+.customer-feedback-saction-content h4 {
+	margin: 15px 0 0;
+	font-size: 14px;
+}
+.customer-feedback-saction-content ul.star-box li {
+	width: 18px;
+	height: 18px;
+	padding: 2px 2px;
+}
+.frequently-questions-saction h2 {
+	font-size: 22px;
+}
+.frequently-questions-saction p {
+	font-size: 13px;
+	font-weight: 300;
+	margin: 0 0 0 0;
+	line-height: 20px;
+}
+.faq-saction {
+	width: 95%;
+	margin: 1.5rem auto 0;
+}
+.faq-saction .card .card-header .btn.btn-link {
+	width: 100%;
+	text-align: left;
+	padding: 10px 10px !important;
+	font-size: 14px;
+}
+.btn.btn-link::after {
+	right: 8px;
+	font-size: 24px;
+	top: 2px;
+}
+.faq-saction .card .card-body {
+	padding: 10px !important;
+	font-size: 13px;
+}
+.faq-saction .btn.btn-link.collapsed::after {
+	right: 7px;
+	font-size: 29px;
+	top: 0;
+}
+.faq-saction .card {
+	margin-bottom: 7px;
+}
+.footer-saction {
+	padding: 1.5rem 0 0;
+	margin: 1.5rem 0 0 0;
+}
+.footer-saction-content h2 {
+	font-size: 22px;
+}
+.footer-saction-content a {
+	margin: 0 0 0 0;
+	width: auto;
+	background-color: #F60;
+	height: auto;
+	line-height: inherit;
+	font-size: 16px;
+	top: 16px;
+	padding: 10px 20px;
+}
+.footer-copy-right-saction {
+	margin-top: 40px;
+	padding: 10px 0;
+}
+.footer-copy-right-saction p {
+	font-size: 12px;
+}
+.slick-arrow {
+	display: none !important;
+}
+.customer-feedback-saction-content .slick-dots {
+	display: block !important;
+}
+.frequently-questions-saction {
+	margin: 1.5rem 0 0;
+}
+.slick-dots li {
+	width: 15px !important;
+	height: 16px !important;
+	margin: 0 2px !important;
+	padding: 0;
+	background-color: #FF6600;
+	border-radius: 50%;
+}
+.slick-dots li button::before {
+	font-size: 10px !important;
+	top: -1px !important;
+	left: -2px !important;
+}
+.slick-dots li.slick-active button::before {
+	opacity: inherit !important;
+	color: #fff !important;
+}
+.banner-saction {
+	background-position: 38% 0;
+}
+.left-from {
+	padding: 15px;
+	height: auto;
+	border-radius: 11px 11px 0 0;
+}
+.left-from .btn-success::after {
+	left: -6px;
+	width: 25px;
+	height: 25px;
+	line-height: 13px;
+	top: 9px;
+	background-position: 49% 8px !important;
+}
+.btn.btn-default.btn-circle::before {
+	left: -2px;
+	top: 11px;
+}
+.stepwizard-step .btn.btn-default.btn-circle {
+	width: 92%;
+	margin: 0 0 13px 25px;
+	padding: 7px 0 30px 10px;
+	font-size: 14px;
+}
+.stepwizard-row::before {
+	top: 19px;
+	height: 82%;
+	left: 6px;
+}
+.right-from-fill form {
+	margin-top: 0;
+	padding: 15px !important;
+}
+.right-from-fill h2 {
+	font-size: 18px;
+	margin: 0 0 0 0;
+}
+.form-all {
+	margin-top: 1.5rem;
+}
+.left-side {
+	width: 100%;
+}
+.right-side {
+	width: 100%;
+}
+.right-from-fill form input {
+	margin: 0 0 20px 0;
+}
+.btn-primary.nextBtn {
+	width: auto;
+	height: auto;
+	font-size: 15px;
+	margin: 12px 0;
+	padding: 9px 44px 9px 20px;
+}
+.btn-primary.nextBtn::after {
+	top: 7px;
+	right: 15px;
+}
+.btn.btn-primary.backBtn {
+	width: auto;
+	height: auto;
+	font-size: 15px;
+	margin: 12px 0;
+	padding: 9px 20px 9px 50px;
+}
+.btn.btn-primary.backBtn::after {
+	top: 7px;
+	left: 0px;
+}
+.from-banner-saction {
+	padding: 1.5rem 0;
+	height: auto;
+}
+.left-from .btn-jk::after {
+	left: -5px;
+	width: 20px;
+	height: 20px;
+	top: 11px;
+	background-position: 48% 5px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 320px) {
+.footer-saction-content h2 {
+	font-size: 20px;
+}
+.stepwizard-step .btn.btn-default.btn-circle {
+	margin: 0 0 10px 25px;
+	padding: 7px 0 26px 10px;
+	font-size: 12px;
+}
+.banner-saction-content h2 {
+	font-size: 18px;
+	line-height: 22px;
+}
+.banner-saction-content h2 {
+	font-size: 18px;
+	line-height: 22px;
+}
+.apply-btn a {
+	font-size: 14px;
+	padding: 5px 16px;
+}
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+.hadder {
+	padding: 8px 0;
+}
+.navbar-light .navbar-toggler {
+	color: #ffff !important;
+	border-color: inherit !important;
+	border: none !important;
+	background-color: #F60;
+	padding: 13px 12px 6px 13px;
+}
+.navbar-nav.mr-auto {
+	position: absolute;
+	left: 0;
+	width: 98%;
+	background-color: #fff;
+	border: 1px solid #dcdcdc;
+	right: 0;
+	margin: 7px auto;
+	border-radius: 3px;
+	text-align: left;
+	z-index: 999;
+}
+.bg-light {
+	background-color: transparent;
+	position: inherit;
+}
+.navbar-nav.mr-auto li {
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+}
+.navbar-nav.mr-auto li a.nav-link {
+	padding: 10px 10px;
+	border-bottom: 1px solid #dcdcdc;
+}
+.login-btn {
+	border-radius: 0;
+	width: 100%;
+	height: 46px;
+	padding: 10px 10px;
+	margin: 0 0 0 0;
+}
+.container.banner-container {
+	max-width: 100%;
+	padding-right: 10px !important;
+	padding-left: 10px !important;
+}
+.hadder .container {
+	padding: 0 10px !important;
+}
+.banner-saction {
+	height: auto;
+	padding: 20px 0;
+}
+.banner-saction-content h2 {
+	font-size: 22px;
+	line-height: 25px;
+}
+.banner-saction-content p {
+	margin: 10px 0 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+.banner-saction-content p br {
+	display: none;
+}
+.apply-btn {
+	margin: 10px 0;
+}
+.apply-btn a {
+	width: auto;
+	color: #fff !important;
+	height: auto;
+	line-height: inherit;
+	font-size: 14px;
+	padding: 7px 20px;
+}
+.speed-money-saction {
+	padding: 1.5rem 0;
+}
+.speed-money-saction h2 {
+	font-size: 22px;
+}
+.speed-money-saction p {
+	font-size: 13px;
+	font-weight: 300;
+	margin: 18px 0 0 0;
+	line-height: 19px;
+}
+.speed-money-saction .row {
+	margin-top: 1.5rem;
+}
+.speed-money-saction-content h4 {
+	font-size: 20px;
+	margin: 10px 0 0;
+}
+.speed-money-saction-content {
+	margin: 0 0 1.5rem 0;
+}
+.about-speed-money-saction {
+	padding: 1.5rem 0;
+	text-align: left;
+}
+.about-speed-money-saction-text h2 {
+	font-size: 22px;
+}
+.about-speed-money-saction-text p {
+	font-size: 14px;
+	line-height: 20px;
+	margin: 10px 0 0 0;
+}
+ul.about-list li {
+	font-size: 13px;
+	margin: 0 0 10px 0;
+}
+ul.about-list {
+	margin: 1.5rem 0 0 0;
+}
+.do-our-lending-Online-saction {
+	padding: 1.5rem 0;
+}
+.do-our-lending-Online-saction-content {
+	border: 3px solid #FFFFFF;
+	padding: 0.5rem;
+}
+.do-our-lending-Online-saction-content h2 {
+	font-size: 22px;
+}
+.do-our-lending-Online-saction-content p {
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 300;
+	width: 100%;
+	margin: 10px auto;
+}
+.blue-btn {
+	margin: .5rem 0;
+}
+.blue-btn a {
+	width: auto;
+	height: auto;
+	line-height: inherit;
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.about-speed-money-saction .col-md-6:nth-child(2) {
+	display: none;
+}
+.easy-loan-process-saction {
+	padding: 1.5rem 0;
+}
+.easy-loan-process-saction h2 {
+	font-size: 22px;
+}
+.easy-loan-process-saction p {
+	font-size: 12px;
+	font-weight: 300;
+	margin: 0px 0 0 0;
+}
+.easy-loan-process-saction .row {
+	margin-top: 1.5rem;
+}
+.easy-loan-process-saction-content {
+	padding: 15px;
+	margin-bottom: 1.5rem;
+}
+.number-box span {
+	width: 60px;
+	height: 60px;
+	font-size: 33px;
+	padding: 5px 0 0 0;
+}
+.number-box {
+	width: 70px;
+	height: 70px;
+	padding: 4px 0 0 0;
+}
+.easy-loan-process-saction-content h4 {
+	font-size: 18px;
+	margin: 20px 0;
+}
+.customer-feedback-saction {
+	padding: 1.5rem 0;
+}
+.customer-feedback-saction h2 {
+	font-size: 22px;
+}
+.customer-feedback-saction p {
+	font-size: 12px;
+	font-weight: 300;
+	margin: 0 0 0 0;
+}
+.customer-feedback-saction-content .items.slick-initialized.slick-slider.slick-dotted {
+	margin: 0 0 0 0;
+}
+.customer-feedback-saction-content h4 {
+	margin: 15px 0 0;
+	font-size: 14px;
+}
+.customer-feedback-saction-content ul.star-box li {
+	width: 18px;
+	height: 18px;
+	padding: 2px 2px;
+}
+.frequently-questions-saction h2 {
+	font-size: 22px;
+}
+.frequently-questions-saction p {
+	font-size: 13px;
+	font-weight: 300;
+	margin: 0 0 0 0;
+	line-height: 20px;
+}
+.faq-saction {
+	width: 95%;
+	margin: 1.5rem auto 0;
+}
+.faq-saction .card .card-header .btn.btn-link {
+	width: 100%;
+	text-align: left;
+	padding: 10px 10px !important;
+	font-size: 14px;
+}
+.btn.btn-link::after {
+	right: 8px;
+	font-size: 24px;
+	top: 2px;
+}
+.faq-saction .card .card-body {
+	padding: 10px !important;
+	font-size: 13px;
+}
+.faq-saction .btn.btn-link.collapsed::after {
+	right: 7px;
+	font-size: 29px;
+	top: 0;
+}
+.faq-saction .card {
+	margin-bottom: 7px;
+}
+.footer-saction {
+	padding: 1.5rem 0 0;
+	margin: 1.5rem 0 0 0;
+}
+.footer-saction-content h2 {
+	font-size: 22px;
+}
+.footer-saction-content a {
+	margin: 0 0 0 15px;
+	width: auto;
+	background-color: #F60;
+	height: auto;
+	line-height: inherit;
+	font-size: 16px;
+	top: -1px;
+	padding: 10px 10px;
+}
+.footer-copy-right-saction {
+	margin-top: 40px;
+	padding: 10px 0;
+}
+.footer-copy-right-saction p {
+	font-size: 12px;
+}
+.slick-arrow {
+	display: none !important;
+}
+.customer-feedback-saction-content .slick-dots {
+	display: block !important;
+}
+.frequently-questions-saction {
+	margin: 1.5rem 0 0;
+}
+.slick-dots li {
+	width: 15px !important;
+	height: 16px !important;
+	margin: 0 2px !important;
+	padding: 0;
+	background-color: #FF6600;
+	border-radius: 50%;
+}
+.slick-dots li button::before {
+	font-size: 10px !important;
+	top: -1px !important;
+	left: -2px !important;
+}
+.slick-dots li.slick-active button::before {
+	opacity: inherit !important;
+	color: #fff !important;
+}
+.banner-saction {
+	background-position: 38% 0;
+}
+.left-from {
+	padding: 62px 15px;
+	height: 423px;
+	border-radius: 11px 11px 0 11px;
+}
+.left-from .btn-success::after {
+	left: -6px;
+	width: 25px;
+	height: 25px;
+	line-height: 13px;
+	top: 9px;
+	background-position: 49% 8px !important;
+}
+.btn.btn-default.btn-circle::before {
+	left: -2px;
+	top: 11px;
+}
+.stepwizard-step .btn.btn-default.btn-circle {
+	width: 92%;
+	margin: 0 0 22px 25px;
+	padding: 7px 0 30px 10px;
+	font-size: 14px;
+}
+.stepwizard-row::before {
+	top: 19px;
+	height: 82%;
+	left: 6px;
+}
+.right-from-fill form {
+	margin-top: 0;
+	padding: 15px !important;
+}
+.right-from-fill h2 {
+	font-size: 18px;
+	margin: 0 0 0 0;
+}
+.form-all {
+	margin-top: 1.5rem;
+	padding-right: 0.5rem;
+}
+.left-side {
+	width: 100%;
+}
+.right-side {
+	width: 100%;
+}
+.right-from-fill form input {
+	margin: 0 0 14px 0;
+}
+.btn-primary.nextBtn {
+	width: auto;
+	height: auto;
+	font-size: 15px;
+	margin: 12px 0;
+	padding: 9px 44px 9px 20px;
+}
+.btn-primary.nextBtn::after {
+	top: 7px;
+	right: 15px;
+}
+.btn.btn-primary.backBtn {
+	width: auto;
+	height: auto;
+	font-size: 15px;
+	margin: 12px 0;
+	padding: 9px 20px 9px 50px;
+}
+.btn.btn-primary.backBtn::after {
+	top: 7px;
+	left: 0px;
+}
+.from-banner-saction {
+	padding: 1.5rem 0;
+	height: auto;
+}
+.from-banner-saction-content .col-md-4 {
+	-ms-flex: 50%;
+	flex: 50%;
+	max-width: 50%;
+		padding: 0 !important;
+}
+.from-banner-saction-content .col-md-8 {
+	-ms-flex: 50%;
+	flex: 50%;
+	max-width: 50%;
+	padding: 0 !important;
+}
+.about-speed-money-saction {
+	background-position: 30%;
+}
+	
+	
+	
+	
+	
+}
+@media (min-width: 992px) and (max-width: 1190px) {
+}
+@media (min-width: 1191px) and (max-width: 1240px) {
+}
+
+@media (width: 1920px) {
+	
+.container.banner-container {
+	max-width: 1919px;
+	margin: 0 auto;
+	padding-right: 22px !important;
+	padding-left: 22px !important;
+}	
+.about-speed-money-saction {
+	background-position: 100% 99%;
+	background-repeat: no-repeat;
+}
+	
+	
+	
+}
